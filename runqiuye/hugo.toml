@@ -1,0 +1,16 @@
+baseURL = 'https://runqiuye.github.io/'
+languageCode = 'en-us'
+title = 'Runqiu Ye'
+theme = 'poison'
+pluralizelisttitles = false 
+
+[params]
+    brand = 'Runqiu Ye'
+    description = "Student in Carnegie Mellon University"
+    dark_mode = true
+    menu = [
+        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Post", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 3},
+    ]
+    github_url = "https://github.com/RunqiuYe"
+    linkedin_url = "https://www.linkedin.com/in/runqiu-ye/"

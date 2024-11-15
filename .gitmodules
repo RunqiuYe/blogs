@@ -1,0 +1,3 @@
+[submodule "runqiuye/public"]
+	path = runqiuye/public
+	url = git@github.com:RunqiuYe/runqiuye.github.io.git
