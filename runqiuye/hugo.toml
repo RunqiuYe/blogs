@@ -6,7 +6,6 @@ pluralizelisttitles = false
 
 [params]
     brand = 'Runqiu Ye'
-    brand_image = "sq.jpg"
     description = "Student in Carnegie Mellon University"
     dark_mode = true
     menu = [
